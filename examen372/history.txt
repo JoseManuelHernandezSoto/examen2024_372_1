@@ -1,0 +1,228 @@
+    1  git init
+    2  git status
+    3  git add .
+    4  git commit -m "comentario"
+    5  git branch -M main
+    6  git remote add origin https://github.com/JoseManuelHernandezSoto/PracticasDSW.git
+    7  git push -u origin main
+    8  git remote add origin https://github.com/JoseManuelHernandezSoto/PracticasDSW.git
+    9  git push -u origin main
+   10  git push -u origin main
+   11  git init~
+   12  git init
+   13  git status
+   14  git add .
+   15  git commit -m "comentario"
+   16  git status
+   17  git add 
+   18  git add .
+   19  git commit -m "comentario"
+   20  git branch -M main
+   21  git remote add origin https://github.com/JoseManuelHernandezSoto/PracticasDSW.git
+   22  git push -u origin main
+   23  git config --global user.email jose.manuel.hernandez.soto@uabc.edu.mx
+   24  git config --global user.name JoseManuelHernandezSoto
+   25  git push -u origin main
+   26  git status
+   27  git commit -m "comentario"
+   28  git status
+   29  git push -u origin main
+   30  git init
+   31  git status
+   32  git add .
+   33  git commit -m "comentario"
+   34  git branch -M main
+   35  git remote add origin https://github.com/JoseManuelHernandezSoto/PracticasDSW.git
+   36  git push -u origin main
+   37  git push -u origin main
+   38  git push -u origin main
+   39  git add .
+   40  git status
+   41  git commit -m "Ejercicio2"
+   42  git push -u origin main
+   43  git status
+   44  git add .
+   45  git commit -m "Practica#4"
+   46  git push -u origin main
+   47  git status
+   48  git add .
+   49  git commit -m "Practica#3"
+   50  git push -u origin main
+   51  git status
+   52  git commit -m "19/2/24"
+   53  git push -u origin main
+   54  git push -u origin main
+   55  git commit -m "19 de Febrero"
+   56  git push -u origin main
+   57  git status
+   58  git commit -m "19 de Febrero"
+   59  git push -u origin main
+   60  git status
+   61  git add .
+   62  git commit -m "19/2/24"
+   63  git push -u origin main
+   64  git status
+   65  git add .
+   66  git commit -m "20/2/24"
+   67  git push -u origin main
+   68  whoami
+   69  hostname
+   70  pwd
+   71  cd /
+   72  pwd
+   73  cd ~
+   74  pwd
+   75  cd desktop/
+   76  cd desktop
+   77  ls
+   78  cd..
+   79  cd ..
+   80  cd ...
+   81  cd
+   82  cd desktop
+   83  cd
+   84  cd de
+   85  cd Desktop/
+   86  cd
+   87  mkdir test/
+   88  cd Desktop/
+   89  mkdir test
+   90  cd test/
+   91  mkdir
+   92  mkdir 1
+   93  cd 1
+   94  mkdir 2
+   95  cd 2
+   96  mkdir 3 
+   97  cd 3
+   98  explorer .
+   99  explorer .
+  100  explorer.
+  101  explorer . 
+  102  cd..
+  103  cd ..
+  104  start .
+  105  start http://www.google.com
+  106  history
+  107  cd/
+  108  cd / 
+  109  mkdir desktop/ ModulosYPaquetes
+  110  cd ~/desktop/ModulosYPaquetes
+  111  cd ~/desktop/Ejercicio1
+  112  star ~/desktop/Ejercicio1
+  113  start ~/desktop/Ejercicio1
+  114  mkdir ~/desktop/Ejercicio1
+  115  mkdir ~/desktop/Ejercicio1
+  116  start ~/desktop/Ejercicio1
+  117  touch file1
+  118  touch file1.txt
+  119  cd /
+  120  mkdir file1.txt
+  121  mv file1.txt ~/desktop/Ejercicio1
+  122  cd ~/desktop/ejercicio1
+  123  touch file2.txt
+  124  cd /
+  125  touch filea.txt fileaa.txt filebb.txt
+  126  mv file?.txt ~/desktop/Ejercicio1
+  127   git user
+  128  git --help
+  129  git pull
+  130  git status
+  131  git add.
+  132  git add .
+  133  git commit -m "4/3/24"
+  134  git push
+  135  git push -u origin main
+  136  git pull
+  137  cd desktop
+  138  mkdir python
+  139  cd python
+  140  ls
+  141  touch main.py; code .
+  142  mkdir examenPython
+  143  cd examenPython
+  144  git clone https://gist.github.com/c30b7f7a5fb67e737fba21e63d1e05db.git instrucciones
+  145  cd instrucciones
+  146  rm -rf .git/
+  147  code .
+  148  cd ~
+  149  mkdir examen372
+  150  cd examen372
+  151  touch create.sh
+  152  echo "#! /bin/bash" >> create.sh
+  153  rm -rf webapp
+  154  mkdir webapp
+  155  cd webapp
+  156  mkdir css
+  157  mkdir js
+  158  mkdir -p docs/text
+  159  mkdir -p docs/python
+  160  ls
+  161  cd docs
+  162  ls
+  163  cd ..
+  164  mkdir img
+  165  for file in index.html style.css app.js main.py;     do         touch ./"${file}";     done
+  166  ls
+  167  cmd //c tree //F ./
+  168   curl -o meme.jpg "https://pm1.aminoapps.com/7021/417429318f6b29b6bc737fb95ba1ddafc9ba2decr1-720-642v2_hq.jpg"
+  169  #Variable de la cantidad de archivos a crear
+  170  read -p "Introduce la cantidad de archivos a crear: " numfiles
+  171  # Crea los archivos de texto
+  172  for x in $(seq 1 $numfiles); do     echo "Archivo ${x}" > "file${x}.txt"; done
+  173  ls
+  174  cmd //c tree //F ./
+  175  mv style.css ./css
+  176  cmd //c tree //F ./
+  177  mv file?.txt ./docs/text
+  178  cmd //c tree //F ./
+  179  mv file??.txt ./docs/text
+  180  cmd //c tree //F ./
+  181  mv main.py ./docs/python
+  182  cmd //c tree //F ./
+  183  mv app.js ./js
+  184  mv meme.jpg ./img
+  185  mv app.js ./js
+  186  cmd //c tree //F ./
+  187  echo "" >> ./create.sh
+  188  cd ..
+  189  echo "rm -rf webapp" >> ./create.sh
+  190  echo "mkdir webapp" >> ./create.sh
+  191  echo "cd webapp \n  mkdir css \n mkdir js \n mkdir -p docs/text \n  mkdir -p docs/python" >> ./create.sh
+  192  echo "mkdir img" >> ./create.sh
+  193  echo "for file in index.html style.css app.js main.py
+    do
+        touch ./"${file}"
+    done
+" >> ./create.sh
+  194  echo "cmd //c tree //F ./
+ curl -o meme.jpg "https://pm1.aminoapps.com/7021/417429318f6b29b6bc737fb95ba1ddafc9ba2decr1-720-642v2_hq.jpg"" >> ./create.sh
+  195  echo "#Variable de la cantidad de archivos a crear
+read -p "Introduce la cantidad de archivos a crear: " numfiles
+
+# Crea los archivos de texto
+for x in $(seq 1 $numfiles)
+do
+    echo "Archivo ${x}" > "file${x}.txt"
+done
+" >> ./create.sh
+  196  echo "#Variable de la cantidad de archivos a crear
+read -p "Introduce la cantidad de archivos a crear: " numfiles
+
+# Crea los archivos de texto
+for x in $(seq 1 $numfiles)
+do
+    echo "Archivo ${x}" > "file${x}.txt"
+done
+10" >> ./create.sh
+  197  echo " cmd //c tree //F ./" >> ./create.sh
+  198  echo " mv style.css ./css
+mv file??.txt ./docs/text
+ mv main.py ./docs/python
+ mv app.js ./js
+ mv meme.jpg ./img
+ cmd //c tree //F ./
+" >> ./create.sh
+  199  mv ./instrucciones/examen372.md ./instrucciones/README.md
+  200  echo "mv ./instrucciones/examen372.md ./instrucciones/README.md" >> ./create.sh
+  201  history > history.txt
